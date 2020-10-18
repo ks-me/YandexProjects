@@ -11,14 +11,14 @@ A/B testing, Python, Pandas, Matplotlib, Seaborn, event analytics, product metri
 <b>Task:</b> <br>
 Reveal key product categories and define essential and accompanying products within key product categories <br>
 <b>Skills:</b><br>
-Python, Pandas, Matplotlib, event analytics, testing statistical hypotheses, data visualization
+Python, Pandas, Matplotlib, event analytics, testing statistical hypotheses, Plotly, data visualization
 
 <hr>
 3. ML project <br>
 <b>Task:</b> <br>
 Predict the probability of churn for clients of a fitness center<br>
 <b>Skills:</b><br>
-Python, Pandas, Scikit-learn, Matplotlib, Seaborn, machine learning, classification, clustering
+Python, Pandas, Scikit-learn, Matplotlib, Plotly, machine learning, classification, clustering
 
 <hr>
 4. SQL project <br>
