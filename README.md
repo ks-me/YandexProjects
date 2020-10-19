@@ -25,5 +25,5 @@ Python, Pandas, Scikit-learn, Matplotlib, Plotly, machine learning, classificati
 <b>Task:</b> <br>
 Analysis of a reading app database<br>
 <b>Skills:</b><br>
-PstgreSQL, sqlalchemy, Pandas
+PostgreSQL, sqlalchemy, Pandas
 
